@@ -1,0 +1,17 @@
+{
+  "client": {
+    "token": {
+      "hmac_secret_key": "gosu-centrifugo-dev-secret"
+    },
+    "allowed_origins": ["http://localhost:3000"]
+  },
+  "http_api": {
+    "key": "gosu_centrifugo_api_key"
+  },
+  "admin": {
+    "enabled": true,
+    "password": "gosu_admin",
+    "secret": "gosu_admin_secret"
+  },
+  "client_insecure": true
+}
