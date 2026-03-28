@@ -1,0 +1,15 @@
+{
+  "name": "gosu-finder",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "숨고형 전문가 매칭 웹앱",
+  "author": "hansangjindev-lab",
+  "license": "MIT",
+  "packageManager": "pnpm@10.33.0",
+  "scripts": {},
+  "devDependencies": {
+    "eslint-config-prettier": "^10.1.8",
+    "prettier": "^3.8.1"
+  }
+}
